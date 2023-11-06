@@ -1,0 +1,128 @@
+
+
+.logogazou img{
+    width: 17%;
+    padding-top: 0px;
+}
+
+.menu{
+    margin-left: 10px;
+    background-color: black;
+    width: 1830px;
+    height: 40px;
+}
+
+.menu li{
+    float: left;
+    list-style: none;
+    line-height: 40px;
+    padding-right: 30px;
+    font-size: 15px;
+    font-family:"游ゴシック";
+    color: white;
+}
+
+main{
+    clear: both;
+}
+
+.main-menu{
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 0px;
+}
+
+.left{
+    float: left;
+    width: 69.4%;
+    height:1500px;
+    border-top: 4px solid blue;
+    border-bottom: 4px solid blue;
+    border-right: 4px solid blue;
+    border-left: 4px solid blue;
+}
+
+.right{
+    float: left;
+    width: 29.7%;
+    height:1500px;
+    border-top: 4px solid red;
+    border-bottom: 4px solid red;
+    border-left: 4px solid red;
+    border-right: 4px solid red;
+}
+
+.left h2{
+    font-family: "ヒラギノ角ゴシック",'メイリオ';
+    margin-left: 7px;
+    margin-top: 2px;
+    padding: .25em 0 0 .5em;
+    border-left: 6px solid;
+    border-left-color: black;
+    border-bottom: 2px solid;
+    border-bottom-color: black;
+}
+
+.left .moji1 p{
+    font-size: 12px;
+    margin-left: 7px;
+}
+
+.left img{
+    float: right;
+    width: 1303px;
+    height: 700px;
+}
+
+.box1 p{
+    margin-left: 20px;
+    line-height: 2.5em;
+    margin-bottom: 0;
+}
+
+.gray-box{
+    margin-left: 8px;
+    width: 1300px;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.gray-box img{
+    width: 270px;
+    height: 200px;
+    margin: 30px 5px 5px 5px;
+}
+
+.gray-box .box-pic1{
+    display: inline-block;
+}
+
+.right h3{
+    font-family: "游ゴシック";
+    margin-left: 7px;
+    margin-top: 20px;
+    padding: .25em 0 0 .5em;
+    border-bottom: 2px dotted;
+    border-bottom-color: #8fbc8f;
+}
+
+.right ul{
+    list-style-type: none;
+}
+
+img{
+    display: block;
+}
+
+footer{
+    clear: left;
+    width: 1870px;
+    height: 60px;
+    bottom: 0;
+    left: 0px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 60px;
+    margin-left: 7px;
+}

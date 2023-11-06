@@ -1,0 +1,54 @@
+body{
+    color: black;
+    font-size: 15px;
+    background-color: gray;
+}
+
+h1{
+    color: black;
+    font-size: 50px;
+    background-color: lightgray;
+    
+}
+
+#sky{
+    color: blue;
+    font-size: 10px;
+}
+
+#forest{
+    color: green;
+    font-size: 50px;
+}
+
+#abc{
+    font-size: 10px;
+}
+
+#big{
+    font-size: 50px;
+}
+
+.japan{
+    color:red
+}
+
+.english{
+    color:brown;
+}
+
+.omoji{
+    font-size: 20px;
+}
+
+.komoji{
+    font-size: 10px;
+}
+
+#sky{
+    color:blue;
+}
+
+#forest{
+    color:green;
+}

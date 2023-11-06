@@ -1,0 +1,13 @@
+body{   margin: 10px;
+        font-family: メイリオ;
+        font-size: 14px;
+        }
+
+h1{
+        padding: .25em 0 0 .5em;
+        border-left: 8px solid #469CD3;
+        border-bottom: 1px solid #469CD3;
+        color:#469CD3;
+        font-weight: bold;
+        font-size: 18px;
+}

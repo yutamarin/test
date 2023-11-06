@@ -1,0 +1,33 @@
+body{
+    font-family: serif
+}
+
+.hello{
+    text-align: center;
+}
+
+h2{
+    text-align: left;
+    font-size: 40px;
+    color: blue;
+}
+
+.abc{
+    font-size: 20px;
+    text-align: left;
+    color: blue;
+}
+
+
+.nol{
+    color: red;
+}
+
+.def{
+    font-family: "Meiryo", serif;
+    font-size: 30px;
+}
+
+.xyz{
+    color: yellow
+}
